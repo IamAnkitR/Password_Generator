@@ -43,7 +43,7 @@ body {
   border: 1px solid #2f3e53;
 }
 
-#pass1-el {
+.pass-btn {
     margin: 1% 0 3% 25% ;
     width: 211px;
     height: 39px;
@@ -54,16 +54,5 @@ body {
     border: none;
     border-radius: 6px;
 }
-#pass2-el {
-    margin: 1% 0 3% 5% ;
-    width: 211px;
-    height: 39px;
-    left: 52px;
-    top: 396px;
-    font-size: 15px;
-    background: #273549;
-    border: none;
-    border-radius: 6px;
-    color: black;
-}
+
 
